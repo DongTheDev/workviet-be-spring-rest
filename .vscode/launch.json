@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WorkVietApplication<be>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.dongthedev.workviet.WorkVietApplication",
+            "projectName": "be",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
